@@ -1,44 +1,26 @@
 # My Todo List App - Milestone 1
 
-cat > README.md << 'EOF'
-# My Todo List App - Milestone 1
-
-## Course: Mobile Application Development
-**Student:** Mohammad Rashed Khan  
-**Student ID:** s554089  
+**Student:** Mohammad Rashed Khan
+**Student ID:** s5404089
+**Course:** Mobile Application Development
 **Date:** 20.03.2026
 
-## What I did for Milestone 1
+## Features
+- Hardcoded todos: Buy milk, Buy bread, Buy eggs
+- Add New Todo button
+- Checkboxes with strikethrough
+- Blue text for todo items
 
-I created a simple todo list app that runs in the browser. It shows three hardcoded tasks:
-- Buy milk
-- Buy bread  
-- Buy eggs
-
-There's a button at the bottom called "+ Add New Todo" that lets users add more tasks.
-
-## How I built it
-
-I used HTML for the structure, CSS for styling (made the todo items blue like the example), and JavaScript to make the add button work and handle the checkboxes.
-
-## How to test my app
-
-Just open the index.html file in any web browser. No server needed. You can click the checkboxes to cross off tasks and click the button to add new ones.
-
-## GitHub link
+## GitHub Repository
 https://github.com/Rashed2026/MyTodoList
 
-## Collaborators added
+## Collaborators
 - Abdul Joseph Fofanah
 - Shanmukhi Vemuri
 
-I've added the assessor as a collaborator to the repository so they can view everything.
+## How to Run
+1. Open index.html in any web browser
+2. Or use Live Server in VS Code
 
-## What works
-- [x] Title shows "My Todo List"
-- [x] Three hardcoded todos visible
-- [x] Add New Todo button works
-- [x] Checkboxes toggle with strikethrough
-- [x] Mobile-friendly layout
-
-I tested this on my phone using Chrome's device emulator and on my MacBook.
+## Screenshot
+![My Todo List App](screenshot.png)
